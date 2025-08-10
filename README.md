@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there, I'm Dilshad 👋
 
-<!--
-**dilshad-python/dilshad-python** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Aspiring Python Developer** | 💻 Lifelong Learner | 🌱 Always curious about technology
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🌟 Recently completed my **Python beginner course**
+- 📚 Currently learning **data structures**, **file handling**, and **basic projects** in Python
+- 🛠️ Practicing Git & GitHub to share my work and collaborate with others
+- 🎯 Goal: Become a skilled Python developer and work on real-world applications
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills & Tools
+- **Languages:** Python (Beginner)
+- **Tools:** Git, GitHub, VS Code
+- **Concepts:** Loops, Functions, Strings, Lists, Dictionaries, File Handling, Exception Handling
+
+## 📌 Projects
+Here are some small but meaningful projects I’ve worked on:
+- [Calculator App](#) — Basic arithmetic calculator using Python
+- [Number Guessing Game](#) — Fun game using loops & conditionals
+- [Rock, Paper, Scissors Game](#) - A simple Python game where you play Rock-Paper-Scissors against the computer.
+- [Water Remainder Notication](#) - A Python program that reminds you to drink water at regular intervals using desktop notifications.  
+
+## 📫 Connect With Me
+- **GitHub:** [@dilshad-python](https://github.com/dilshad-python)
+- **Email:** Dilshadpubgyt742@gmail.com
+- **LinkedIn:** (www.linkedin.com/in/dilshad-ansari-7bb972379)
+
+⭐ *“The journey of a thousand miles begins with a single step — and I’m coding my way there!”*
